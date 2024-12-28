@@ -42,12 +42,13 @@ To get started with the project, follow these steps:
    First, clone the repository to your local machine using Git. Replace your-username with your actual GitHub username if needed:
 ``` bash 
 
-   git clone https://github.com/your-username/cls.git
+   git clone https://github.com/your-username/Ui-design.git
 
 ```
 2. ### Navigate to the project directory:
 ```bash
- cd pediatrics-department-screen
+ cd Ui-design
+
 ```
 3. ### Install the dependencies:
 ```bash

@@ -73,7 +73,12 @@ The app will be available at http://localhost:3000.
 
 The Sample datafor the the table is structured as follows
 
+<<<<<<< HEAD
 ``` {
+=======
+```
+{
+>>>>>>> 5b5f958343365919d9cfc524bbbe340853b5b289
     id: 1,
     name: 'John Doe',
     contact: '123-456-7890',
@@ -114,7 +119,10 @@ The Sample datafor the the table is structured as follows
     dueDate: '2024-09-10'
 }
  ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5b5f958343365919d9cfc524bbbe340853b5b289
 ## Components
 
 1. ### Header Component
@@ -129,4 +137,6 @@ The Sample datafor the the table is structured as follows
 ## Styling
 
 The application uses **Bootstrap** for responsive design and layout, along with custom **CSS** for additional styling. The table headers have a background color for better readability, and elements are aligned and styled to match the provided design.
+
+
 

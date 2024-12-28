@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import ResponsiveExample from './Table';
 import { patients } from './api.js';
 function Popup(){
-    const[data,setData]=useState(patients);
+    const[data]=useState(patients);
     const[patient,setPatient]=useState(false)
     const[show,setShow]=useState(false);
     const[model,setModel]=useState('');
